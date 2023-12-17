@@ -1,0 +1,138 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+    background-color: black;
+}
+
+.header{
+    width: 100%;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+    
+    
+}
+
+.container{
+    width:100%;
+    max-width: 1170px;
+    margin: 0% auto;
+    position: relative;
+    
+}
+.navigation{
+    height: 85px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.header-nav-link{
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Lora';
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    
+}
+
+
+.line{
+    border-bottom: 0.1px solid #6e6e6e;
+    margin-bottom: 20px;
+    
+}
+
+
+.pervaya{
+    margin-left: 0px;
+}
+
+
+.zagolovok{
+    text-align: center;
+    font-family: 'Lora';
+    font-size: 42px;
+    margin-bottom: 120px;
+    font-style: normal;
+    margin-top: 110px;
+    
+    color: rgb(255, 255, 255);
+
+}
+.number{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 120px;
+}
+.flex-number{
+    display: flex;
+    
+}
+
+.stroka-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 160px;
+}
+.stroka-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 160px;
+}
+
+.ph2{
+    height: 150px;
+}
+
+/*footer*/
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 44px;
+    margin-left: 70px;
+   
+}
+
+.fot{
+    margin: 0px;
+}
+
+
+.contacts-ikon-2{
+    width: 25px;
+    height: 25px;
+    margin: 0px;
+}
+
+
+.text-f{
+    
+    font-size: 16px;
+    color: #767676;
+    font-weight: 100;
+
+}
+
+.information{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 47px;
+}
+
+.line-2{
+    border-bottom: 0.1px solid #6e6e6e;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}

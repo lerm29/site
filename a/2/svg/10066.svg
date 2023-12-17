@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1280px" height="720px" viewBox="0 0 1280 720">
+<defs>
+<image id="maxresdefault_jpg" x="0" y="0" width="1280" height="720" xlink:href="./изображения/maxresdefault_jpg.jpg"/>
+
+<image id="pngwing_com__2__png________" x="0" y="0" width="1082" height="988" xlink:href="./изображения/pngwing_com__2__png________.png"/>
+
+<image id="pngwing_com__1__png" x="0" y="0" width="500" height="500" xlink:href="./изображения/pngwing_com__1__png.png"/>
+</defs>
+
+<g transform="matrix( 1.04156494140625, 0, 0, 1.04156494140625, -27,-15) ">
+<use xlink:href="#maxresdefault_jpg"/>
+</g>
+
+<g transform="matrix( 0.610198974609375, 0.76519775390625, -0.76519775390625, 0.610198974609375, 613.2,573.3) ">
+<g transform="matrix( 0.19091796875, 0, 0, 0.198577880859375, -103.3,-98.1) ">
+<use xlink:href="#pngwing_com__2__png________"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1125.6,565.1) ">
+<g transform="matrix( 0.5623779296875, 0, 0, 0.5623779296875, -140.6,-140.6) ">
+<use xlink:href="#pngwing_com__1__png"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,309 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+    background-color: black;
+}
+
+.header{
+    width: 100%;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+    
+    
+}
+
+.container{
+    width:100%;
+    max-width: 1170px;
+    margin: 0% auto;
+    position: relative;
+    
+}
+
+.navigation{
+    height: 85px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.header-nav-link{
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Lora';
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    
+}
+
+
+.line{
+    border-bottom: 0.1px solid #6e6e6e;
+    margin-bottom: 20px;
+    
+}
+
+.line-1{
+    border-bottom: 0.1px solid #6e6e6e;
+    
+    
+}
+
+.linia{
+    border-bottom: 0.1px solid #ffffff;
+    width: 82px;
+    margin-left: 200px;
+    
+    
+}
+
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin-bottom: 140px;
+    align-items: flex-start;
+}
+
+.flex-two{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.sss{
+    margin-left: 15px;
+
+}
+
+.vector{
+    height: 230px;
+    width: 1px;
+}
+.photo{
+    margin-top: 120px;
+    height: 565px;
+    width: 380px;
+}
+
+
+
+
+.contacts-ikon{
+    width: 25px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.one{
+    height: 867px;
+    margin-bottom: 110px;
+}
+
+.ss{
+    margin-bottom: 79px;
+    display: flex;
+    justify-content: right;
+}
+
+
+.left{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between  ;
+    align-items: center;
+    
+}
+
+
+.text{
+    display: flex;
+    flex-direction: column;
+    width: 539px;
+    margin-left: 100px;
+    margin-top: 180px;
+    line-height: 1.2;
+    justify-content: flex-end;
+    color: rgb(255, 255, 255);
+}
+.text-1{
+    font-size: 42px;
+    font-family: 'Lora';
+    font-weight: 100;
+    margin-bottom: 55px;
+    color: rgb(255, 255, 255);
+}
+.text-2{
+    font-size: 24px;
+    font-family: 'open sans';
+    font-weight: 100;
+    margin-bottom: 15px;
+    color: rgb(255, 255, 255);
+}
+
+
+/*btn*/
+.btn{
+    margin-top: 55px;
+    display: inline-block;
+    padding: 26px 50px ;
+    font-size: 24px;
+
+    color:#ffffff;
+    font-weight: 100;
+
+    border: solid;
+    border-color: #ffffff ;
+    
+    border-width: 1px;
+    
+    transition: background.2s
+    linear;
+
+    margin-bottom: 130px;
+}
+
+.btn:hover{
+    background-color: #525252;
+    color:#fff;
+    
+    
+}
+
+
+/*2*/
+
+.zagolovok{
+    text-align: center;
+    font-family: 'Lora';
+    font-size: 42px;
+    margin-bottom: 130px;
+    font-style: normal;
+    margin-top: 110px;
+    
+    color: rgb(255, 255, 255);
+
+}
+
+.schet{
+    color: #ffff;
+    font-family: 'Lora';
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+
+.pervaya-stroka{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 120px;
+}
+
+
+.one-el{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    
+    margin-right: 50px;
+}
+.two-el{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.tree-el{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    margin-left: 50px;
+    
+}
+
+.vtoraya-stroka{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.ph2{
+    margin-left: 40px;
+}
+
+/*3*/
+
+.mini-line{
+    border-bottom: 0.1px solid #6e6e6e;
+    margin-bottom: 45px;
+}
+
+.odin{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 45px;
+    
+}
+.line-2{
+    border-bottom: 0.1px solid #6e6e6e;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+/*footer*/
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 44px;
+    margin-left: 70px;
+}
+
+.fot{
+    margin: 0px;
+}
+
+
+.contacts-ikon-2{
+    width: 25px;
+    height: 25px;
+    margin: 0px;
+}
+
+
+.text-f{
+    
+    font-size: 16px;
+    color: #767676;
+    font-weight: 100;
+
+}
+
+.information{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 47px;
+}
+
+/* 4 */
+
+.H1-four{
+    
+}

@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1280px" height="720px" viewBox="0 0 1280 720">
+<defs>
+<image id="maxresdefault_jpg" x="0" y="0" width="1280" height="720" xlink:href="./изображения/maxresdefault_jpg.jpg"/>
+
+<image id="pngwing_com__6__png" x="0" y="0" width="512" height="512" xlink:href="./изображения/pngwing_com__6__png.png"/>
+</defs>
+
+<g transform="matrix( 1.04156494140625, 0, 0, 1.04156494140625, -27,-15) ">
+<use xlink:href="#maxresdefault_jpg"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 655.15,485.5) ">
+<g transform="matrix( -0.43341064453125, 0, 0, 0.4892578125, 221.9,0) ">
+<use xlink:href="#pngwing_com__6__png"/>
+</g>
+</g>
+</svg>
